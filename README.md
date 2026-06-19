@@ -1,5 +1,12 @@
-# rien-doll's minimal-ui mod converted to "4k" resolution.
+# rien-doll's minimal-ui mod udpated to DW 7.51
+# Only updated 4K resolution assets/hud.
+If there's any issues, feel free to request a fix on this git
 
+
+
+-----------------------------------------------------------
+
+**Original notes from original creator**
 Circle buff icons have not been converted, but most other "options" have.
 
 ## Preview
